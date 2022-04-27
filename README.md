@@ -23,3 +23,7 @@
    * DS18B20
 
    * connecting cables
+  
+  
+  
+  Stepan Marousek 2022
